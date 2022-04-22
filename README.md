@@ -1,2 +1,2 @@
 # RemixDecentralizedSE
-just for sharing a code
+Check this code out, prototype of Decentralized Stock Exchange.
